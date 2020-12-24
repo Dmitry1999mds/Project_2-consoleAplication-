@@ -80,8 +80,7 @@ const personalMovieDB = {
       
   }
 };
-
-/* personalMovieDB.writeYourGenres(); */
+personalMovieDB.writeYourGenres(); 
 
 
 
